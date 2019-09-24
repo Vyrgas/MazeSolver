@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolvertests\\MazeSolverTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolvertests\\MazeSolverTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolvertests\\MazeSolverTests.csproj",
+        "projectName": "MazeSolverTests",
+        "projectPath": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolvertests\\MazeSolverTests.csproj",
+        "packagesPath": "C:\\Users\\Virginijus.Zarauskas.INRE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolvertests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Virginijus.Zarauskas.INRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolver\\MazeSolver.csproj": {
+                "projectPath": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolver\\MazeSolver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolver\\MazeSolver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolver\\MazeSolver.csproj",
+        "projectName": "MazeSolver",
+        "projectPath": "C:\\Users\\Virginijus.Zarauskas.INRE\\source\\repos\\MazeSolver\\MazeSolver\\MazeSolver.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
