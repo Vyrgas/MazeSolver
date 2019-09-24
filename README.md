@@ -1,6 +1,6 @@
 # MazeSolver
 
-This is a maze solving application which uses recursion for solving the maze. There is given an example data file [RPAMaze.txt]("MazeSolver/MazeSolver/RPAMaze.txt"). Where the first line contains maze height (10) and width (10). Next ten lines are maze representation as two-dimensional array. Wall tiles are marked with 1, path tiles are marked with 0 and start position is 
+This is a maze solving application which uses recursion for solving the maze. There is given an example data file [RPAMaze.txt](MazeSolver/RPAMaze.txt). Where the first line contains maze height (10) and width (10). Next ten lines are maze representation as two-dimensional array. Wall tiles are marked with 1, path tiles are marked with 0 and start position is 
 marked with 2.
 
 The application:
